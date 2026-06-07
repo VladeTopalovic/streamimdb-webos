@@ -1,0 +1,23 @@
+{
+  "apps": [
+    {
+      "id": "ru.streamimdb.app",
+      "title": "StreamIMDB",
+      "version": "1.0.0",
+      "type": "web",
+      "category": "video",
+      "description": "Browse thousands of free movies & TV shows! Updated daily with HD content. StreamIMDB opens directly in fullscreen with back-button navigation support.",
+      "detailDescription": "StreamIMDB is a free streaming platform with thousands of movies and TV shows in HD quality, updated daily. This app opens StreamIMDB directly on your LG TV in fullscreen mode. Use your remote's back button to navigate within the site.",
+      "iconUri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAABrUlEQVR4nO3dsY2DQBCF4QFdvmRuwHID138J14B1DThjK+AC68kY2ZzhGXZm/f4ICYRWn5aEYLaxUb+n04Dr4/ncjO+llAb7oHLOzf9PmTVm93DTvi+Xd60pbHOY7Z4Lidrc19fO7T4zs5/D4f0rCtgzRO3ABT1CFODCpogCXNEYUYArA6IAyQRIJkCilNIgQDIBkgmQTIBkAiQTIJkAyQRIJkAyAZIJkEyAZAIkEyCZAMkESFYcsO/70kugKg5odkWMCukCEEWEdAWIIkG6BEQRIF0DIs+QIQCRR8hQgMgTZEhA5AEyNCAqCVkFICoBWRUg2hOySkC0B2TVgGhLyK9N3uqsrus2e3fVgFvCoSoB94BDVQHuCYeqACwBh0IDloRDIQE9wKFQgJ7gUAhAj3DINaBnOOQSMAIccgUYCQ65AIwIh4r/jYmMZ+YAMHoCJBMgmQDJBEgmQDIBkgmQTIBkAiQTIJkAyQRIJkAyAZIJkCjn3AiQTIBkAlwZZksLcEXjwdwCXNh0qrkAF/RoJHw7PXRgmmbpX3s2T1878IXmDiO4u6HjMG69ehzGH/nwiUjWccrVAAAAAElFTkSuQmCC",
+      "largeIconUri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAACCCAYAAACKAxD9AAACv0lEQVR4nO3awW3qUBBG4cPT2ztFRDSQ/htBaYBdXAFZZCYCZIxNwOA759shbLiSj342bBjwud0ejl+/73aboetS13WHsff1WH3fjz6fKU4+4DyAc8dB+PBf061R/N50LYL0sd/f8j1a2NwgNjA9gmQM6zE1iH+PPoiea+pP+GbuGiRXYX3G1sFFKGRsHQyhmEsxGIIAQyhpaBUMoajzGAxBgCGUdrwKhiDAEMrLVTAEAYagYAii67qDIQhwERQMQYAhKBiCAENQMAQBhqBgCAIMQcEQBBiCgiEIMAQFQxBgCAqGIMAQFAxBgCEoGIIAQ1AwBAGGoGAIAgxBockQvr6+nn2E1WkyBPiJwSCmazaEZBDTNB9CMohxZUJIBjGsXAjJIE6VDSEZxI/yIaTqQRjCmapBGMIF1YIwhCuqBGEIE7UehCHM1GoQhnCj1oIwhD9qJQhDuJO1B2EId7bWIAzhQdYWhCE82FqCMISFvHoQhrCwVw3CEJ7k1YL4/+wDVPX29vbsI5wwhIW9WgDJEBbyqgEkQ3iwVw8gGcKDrCWAZAh3trYAkiHcyVoDSIbwR2sPIBnCjVoJIBnCTK0FkAxholYDSIZwResBJEO4oEoAyRDOVAsgGUKoGkAqH0L1AFLZEAzgVLkQDGBYmRAMYFzzIRjANM2GYADzNPkvZiOYr8kQNJ8hCDAEBUMQYAgKhiDAEBQMQYAhKBiCAENQMAQBhqBgCAIMQcEQBBiCgiEIMAQFQxBgCAqGIMAQFAxBgCEoGILo+35jCAJcBAVDKK7v+w0YgoIhFJZrAIagYAhFHa8BGEJJ5xGAISgYQjFDawCGUMqlCAA2AJ/b7WHOB37s9389kxY0FkByERo3JQKIRYDpq+AarMPUANLJxddieN/tfq/vum7Wz4mWMTeANHjTeRDHAQwxiue69eEf+wb9/OE2eP14dwAAAABJRU5ErkJggg==",
+      "sourceUrl": "https://streamimdb.ru",
+      "ipkUrl": "streamimdb_1.0.0_all.ipk",
+      "ipkHash": {
+        "md5": "a4be84a7354381fef0073f2fa5ad9e03"
+      },
+      "size": 4008,
+      "author": "StreamIMDB",
+      "funding": {}
+    }
+  ]
+}
